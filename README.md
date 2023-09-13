@@ -1,5 +1,5 @@
 # MScDSB-MDS171-23122121-Kingsuk-Rakshit
-Name: Kingsuk Rakshit
+Name: Kingsuk Rakshit, 
 Register Number: 23122121   
 Class: MScDSB   
 Email: kingsuk.rakshit@msds.christuniversity.in

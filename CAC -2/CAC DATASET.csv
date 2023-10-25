@@ -1,0 +1,385 @@
+Timestamp,Email (CHRIST ID) ,NAME,GENDER,Course,What do you prefer?,Which one do you like the most ?,Is your preferred food available ? ,Most Frequently Visited Cafe.,Why do you prefer this cafe ?,Number of Visits,How do you rate the food of the cafe you visited frequently ?,How much do you spend for food everyday ?
+10-12-2023 16:59,arun.m@msds.christuniversity.in,Arun M,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-12-2023 17:02,yeswanth.pg@msds.christuniversity.in,Yeswanth P G,Male,MSc DS,Both,South Indian,Sometimes,Steaming Mugs,All of the above,More than 7,4,200
+10-12-2023 17:06,amrutha.paalathara@msds.christuniversity.in,Amrutha Paalathara,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-12-2023 17:07,trikalagga.saha@msds.christuniversity.in,Trikalagga Saha,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,5,200
+10-12-2023 17:09,tanisha.agarwal@msds.christuniversity.in,Tanisha Agarwal,Female,MSc DS,Both,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,3,200
+10-12-2023 17:13,Jeffinshaji.s@msds.christuniversity.in,Jeffin Shaji,Male,MSc DS,Non- Veg,South Indian,No,Cafe Chopsticks,All of the above,Less than 3,3,200
+10-12-2023 17:13,britto.fernandes@msds.christuniversity.in,Britto Fernandes,Male,MSc DS,Non- Veg,North Indian,No,Cafe by the Valley,Quality,Less than 3,4,100
+10-12-2023 17:14,ubale.mayuri@msds.christuniversity.in,Mayuri Ubale,Female,MSc DS,Veg,North Indian,No,Steaming Mugs,Quality,Less than 3,3,200
+10-12-2023 17:16,riya.pc@msds.christuniversity.in,Riya PC,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,100
+10-12-2023 17:16,hitanshi.gupta@msds.christuniversity.in,Hitanshi Gupta,Female,MSc DS,Veg,North Indian,Sometimes,Steaming Mugs,Quality,Less than 3,3,100
+10-12-2023 17:18,harini.sruthi@msds.christuniversity.in,Harini Sruthi T S,Female,MSc DS,Non- Veg,South Indian,No,Cafe Chopsticks,Budget,Less than 3,3,200
+10-12-2023 17:20,jaise.george@msds.christuniversity.in,Jaise george,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,50
+10-12-2023 17:23,nkit.amartya@bcomfah.christuniversity.,Ankit Raj Amartya,Male,BCOM,Both,North Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,200
+10-12-2023 17:25,adharsh.jaison@msds.christuniversity.in,Adharsh jaison,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-12-2023 17:33,sampadha.varanasi@msea.christuniversity.in,Sampadha Varanasi,Female,MSc EA,Both,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,5,200
+10-12-2023 17:44,arun.reghunathan@msds.christuniversity.in,Arun Reghunathan,Male,MSc DS,Both,South Indian,No,Cafe Chopsticks,Quantity,Less than 3,2,100
+10-12-2023 17:45,aditya.singh@msds.christuniversity.in,Aditya Kumar Singh,Male,MSc DS,Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-12-2023 17:53,tanuja.gupta@msds.christuniversity.in,Tanuja Gupta,Female,MSc DS,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,200
+10-12-2023 17:54,siddharth.nautiyal@msds.christuniversity.in,Siddharth Nautiyal,Male,MSc DS,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,200
+10-12-2023 18:13,anushya.francisca@msds.christuniversity.in,Anushya Francisca,Female,MSc DS,Both,South Indian,Yes,Concerto,All of the above,More than 7,4,350
+10-12-2023 18:25,siddhartha.sinha@msds.christuniversity.in,Siddhartha Sinha,Male,MSc DS,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-12-2023 18:36,Ansel.paul@msds.christuniversity.in,Ansel Paul,Male,MSc DS,Both,South Indian,No,Cafe Chopsticks,Quantity,Less than 3,4,200
+10-12-2023 18:58,nizamudeen.h@law.christuniversity.in,Nizamudeen hasan,Male,BA LLB,Both,South Indian,Yes,Steaming Mugs,All of the above,More than 7,4,200
+10-12-2023 19:01,Mohammed.Rayan@msds.christuniversity.in,Mohammed Rayan,Male,MSc DS,Both,South Indian,No,Cafe Chopsticks,Quality,Less than 3,3,100
+10-12-2023 19:12,leran.carvalho@msds.christuniversity.in,Leran Carvalho,Male,MSc DS,Both,South Indian,Sometimes,Concerto,All of the above,Less than 3,3,100
+10-12-2023 19:13,gokul.manoj@msds.christuniversity.in,Gokul Manoj,Male,MSc DS,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-12-2023 19:21,Jyosna.philip@msds.christuniversity.in,Jyosna Philip,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-12-2023 19:57,kingsuk.rakshit@msds.christuniversity.in,Kingsuk Rakshit,Male,MSc DS,Both,North Indian,Yes,Cafe Chopsticks,Budget,Less than 3,4,50
+10-12-2023 20:00,vikas.k@msds.christuniversity.in,Vikas K,Male,MSc DS,Non- Veg,South Indian,Yes,Steaming Mugs,Quantity,Less than 3,4,350
+10-12-2023 20:12,divyank.yadav@msea.christuniversity.in,Divyank Kumar Yadav,Male,MSc EA,Both,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,350
+10-12-2023 20:25,arshika.saraswat@msds.christuniversity.in,Arshika Saraswat,Female,MSc DS,Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,350
+10-12-2023 20:37,ritu.shaw@science.christuniversity.in,Ritu Kumari Shaw,Female,MSc EA,Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,50
+10-12-2023 20:40,manish.kumar@msds.christuniversity.in,Manish Kumar,Male,MSc DS,Non- Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,50
+10-12-2023 20:56,simon.lakshan@law.chistuniversity.in,Simon lakshan A,Male,BBA LLB,Non- Veg,South Indian,No,Cafe Chopsticks,Budget,Less than 3,3,200
+10-12-2023 21:14,shruti.mall@msds.christuniversity.in,Shruti Mall,Female,MSc DS,Both,North Indian,Yes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-12-2023 21:19,shubham.kumar@msds.christuniversity.in,Shubham Kumar,Male,MSc DS,Non- Veg,North Indian,Yes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-12-2023 21:21,selina.lana@msds.christuniversity.in,Selina Lana,Female,MSc DS,Non- Veg,North Indian,No,Steaming Mugs,All of the above,Less than 3,4,200
+10-12-2023 21:27,stuty.das@msds.christuniversity.in,Stuty Das,Female,MSc DS,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,200
+10-12-2023 21:50,aadith.mathew@msds.christuniversity.in,Aadith Joseph Mathew,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-12-2023 22:48,vsravani0123@gmail.com,V.Sravani,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,2,100
+10-12-2023 22:56,anand.kj@msds.christuniversity.in,Anand K J,Male,MSc DS,Both,South Indian,Yes,Cafe Chopsticks,All of the above,Less than 3,3,100
+10-13-2023 0:30:51,jofin.siby@msds.christuniversity.in,Jofin James Siby,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-13-2023 0:40:42,adrija.saha@law.christuniversity.in,Adrija Saha,Female,BA LLB,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,Quantity,More than 7,3,100
+10-13-2023 1:05:59,naga.suganeswar@law.christuniversity.in,NAGA SUGANESWAR,Male,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,2,100
+10-13-2023 9:19:57,shivangi.sharma@msds.christuniversity.in,Shivangi Sharma,Female,MSc DS,Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,350
+10-13-2023 9:20:28,gungun.agnihotri@msds.christuniversity.in,Gungun,Female,MSc DS,Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,200
+10-13-2023 12:31:24,thamizhanbu.e@msds.christuniversity.in,Thamizhanbu E,Male,MSc DS,Non- Veg,South Indian,No,Cafe Chopsticks,Budget,Less than 3,3,200
+10-13-2023 12:59:39,joice.mathew@msea.christuniversity.in,Joice Ann Mathew,Female,MSc EA,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-13-2023 13:04:38,vinay.mathai@law.christuniversity.in,Vinay Varghese Mathai,Male,BBA LLB,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-13-2023 13:14:10,kaustav.mathur@bbabah.christuniversity.in,Kaustav Mathur,Male,BBA,Non- Veg,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,3,200
+10-13-2023 13:22:27,sneha.shruti@bba.christuniversity.in,Sneha Shruti,Female,BBA,Both,North Indian,Yes,Ganga Ram,Quality,Less than 3,4,100
+10-13-2023 13:22:50,mahalakshmi.s@law.christuniversity.in,S.Mahalakshmi,Female,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-13-2023 13:27:34,sandeepkumargsain@gmail.com,Sandeep Kumar G,Male,MSc DS,Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-13-2023 13:28:27,ardra.ks@msds.christuniversity.in,Ardra K S,Female,MSc DS,Non- Veg,South Indian,Yes,Cafe Chopsticks,Quality,Less than 3,4,50
+10-13-2023 13:29:57,devika.vinod@msds.christuniversity.in,Devika S Vinod,Female,MSc DS,Both,South Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,4,200
+10-13-2023 13:45:01,lingesh.m@msds.christuniversity.in,LINGESH M,Male,MSc DS,Non- Veg,South Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,50
+10-13-2023 13:50:20,saisurendar.p@msds.christuniversity.in,Sai Surendar P,Male,MSc DS,Both,South Indian,No,Cafe Chopsticks,All of the above,Less than 3,3,200
+10-13-2023 16:50:39,angela.scaria@msds.christuniversity.in,Angela Scaria,Female,MSc DS,Non- Veg,South Indian,Yes,Cafe Chopsticks,Budget,Less than 3,4,100
+10-13-2023 18:41:24,evana.td@msds.christuniversity.in,EVANA T D,Female,MSc DS,Non- Veg,South Indian,No,Cafe Chopsticks,Budget,Less than 3,2,100
+10-13-2023 19:38:58,sudiksha.sharma@msea.christuniversity.in,sudiksha sharma,Female,MSc EA,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-15-2023 19:43:08,shashankkumar.n@law.christuniversity.in,Shashank Kumar,Male,BBA LLB,Veg,North Indian,No,Steaming Mugs,Quantity,Less than 3,3,350
+10-15-2023 19:47:51,aaron.biju@law.christuniversity.in,Aaron,Male,BA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,1,200
+10-15-2023 19:59:53,vismay.pillai@bbabah.christuniversity.in,Vismay a pillai,Male,BBA,Both,South Indian,Sometimes,Concerto,Quality,Less than 3,4,200
+10-15-2023 20:00:38,kartik.bisht@bbabah.christuniversity.in,Kartik bisht,Male,BBA,Veg,North Indian,Sometimes,Concerto,Quality,Less than 3,4,200
+10-15-2023 20:01:35,prashant.modi@law.christuniversity.in,Prashant Modi,Male,BBA LLB,Veg,North Indian,Yes,Cafe by the Valley,Quantity,Less than 3,3,200
+10-15-2023 20:02:12,ishwankey.gupta@law.christuniversity.in,Ishwankey Gupta,Female,BBA LLB,Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,100
+10-15-2023 20:04:44,souradeepta.mazumder@law.christuniversity.in,Souradeepta Mazumder,Female,BA LLB,Both,North Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,100
+10-15-2023 20:04:52,nikhil.pr@msds.christuniversity.in,Nikhil,Male,MSc DS,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,100
+10-15-2023 20:05:45,suraj.mishra@msds.christuniversity.in,Suraj Mishra,Male,MSc DS,Veg,South Indian,Yes,Cafe Chopsticks,Budget,Less than 3,5,100
+10-15-2023 20:06:19,suparna.bhattacharjee@bba.christuniversity.in,sb,Female,BBA,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,350
+10-15-2023 20:06:52,Mebin. Biju@mbachristuniversity.in,Mebin biju,Male,MBA,Both,North Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,200
+10-15-2023 20:08:31,joel.mathews@bscdsh.christuniversity.in,Joel Kuruvilla Mathews,Male,BSC DS,Both,South Indian,Yes,Cafe by the Valley,All of the above,Less than 3,4,100
+10-15-2023 20:09:28,alen.shibu@bscdsh.christuniversity.in,Alen Jin Shibu,Male,BSC DS,Non- Veg,South Indian,Yes,Cafe Chopsticks,Quantity,Less than 3,2,50
+10-15-2023 20:12:42,aditya.singh@msgfa.christuniversity.in,Aditya Singh,Male,MSc GFA,Both,North Indian,Sometimes,Steaming Mugs,Quantity,Less than 3,2,200
+10-15-2023 20:13:54,pasula.adarsh@bbabah.christuniversity.in,Adarsh's reddy,Male,BBA,Non- Veg,South Indian,Yes,Concerto,All of the above,Less than 3,5,100
+10-15-2023 20:15:00,aniruddh.krishna@bbabah.christuniversity.in,Aniruddh,Male,BBA,Non- Veg,South Indian,Sometimes,Ganga Ram,All of the above,Less than 3,4,200
+10-15-2023 20:15:33,Pavanrama456@gmail.com,Pavan,Male,BBA,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,More than 7,5,350
+10-15-2023 20:17:07,vinjarapu.kumar@bbabah.christuniversity.in,V Manoj,Male,BBA,Non- Veg,South Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,3,200
+10-15-2023 20:17:25,aaryan.kolekar@bbabah.christuniversity.in,Aaryan Kolekar,Male,BBA,Veg,North Indian,Yes,Steaming Mugs,Quality,Less than 3,3,200
+10-15-2023 20:17:53,atharva.joshi@bscdsh.christuniversity.in,Atharva joshi,Male,BSC DS,Non- Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,3,350
+10-15-2023 20:18:59,arnav.mishra@law.christuniversity.in,Arnav Mishra,Male,BBA LLB,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,5,200
+10-15-2023 20:20:38,ritikesh.shinde@law.christuniversity.in,Ritikesh shinde,Male,BBA LLB,Both,South Indian,No,Steaming Mugs,All of the above,Less than 3,4,200
+10-15-2023 20:20:53,Varghese. Anto@law.christuniversity.in,Varghese,Male,BBA LLB,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-15-2023 20:21:16,rishi.ranjan@law.christuniversity.in,Rishi,Male,BA LLB,Both,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,350
+10-15-2023 20:22:32,s.devkrishna@bscdsh.christuniversity.in,S Devkrishna,Male,BSC DS,Non- Veg,South Indian,No,Cafe by the Valley,Quality,Less than 3,4,350
+10-15-2023 20:22:34,ann.joshy@law.christuniversity.in,ANN,Female,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-15-2023 20:24:25,urvi.saran@bsceah.christuniversity.in,Urvi Saran,Female,BSC EA,Both,South Indian,No,Cafe by the Valley,All of the above,Less than 3,3,350
+10-15-2023 20:24:37,rhea.rhine@law.christuniversity.in,Rhea Eleanor Rhine,Female,BA LLB,Non- Veg,South Indian,Sometimes,Cafe by the Valley,Quantity,Less than 3,3,350
+10-15-2023 20:26:34,pariska.nagvenkar@bbabah.christuniversity.in,Pariska Nagvenkar,Female,BBA,Both,South Indian,Sometimes,Steaming Mugs,Quality,Less than 3,3,200
+10-15-2023 20:26:34,rahul.b@msea.christuniversity.in,Rahul B,Male,MSc EA,Both,South Indian,No,Cafe by the Valley,Quality,Less than 3,3,350
+10-15-2023 20:28:06,vatsal.sharma@bbabah.christuniversity.in,Vatsal Sharma,Male,BBA,Veg,North Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,3,200
+10-15-2023 20:28:28,b.shivram@mba.christuniversity.in,Shivram,Male,MBA,Veg,South Indian,No,Ganga Ram,All of the above,Less than 3,3,200
+10-15-2023 20:28:49,rachel.ann@bbabah.christuniversity.in,Rachel,Female,BBA,Both,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,3,200
+10-15-2023 20:28:57,shilpi.singh@bbabah.christuniversity.in,Shilpi Singh,Female,BBA,Both,North Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,3,200
+10-15-2023 20:31:18,Blablablabla,Yada yada,Male,BSC EA,Non- Veg,North Indian,No,Cafe by the Valley,Budget,Less than 3,1,350
+10-15-2023 20:31:18,shankaresh.c@bbabah.christuniversity.in,Shankaresh,Male,BBA,Both,South Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,4,100
+10-15-2023 20:31:18,siddhi.jhanwar@ecoa.christuniversity.in,Siddhi Jhanwar,Female,BA LLB,Both,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-15-2023 20:32:16,kushagra.bansal@bba.christuniversity.in,Kushagra Bansal,Male,BBA,Veg,North Indian,Sometimes,Ganga Ram,All of the above,Less than 3,3,200
+10-15-2023 20:32:16,yashi.s@msds.christuniversity.in,yashi,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,More than 7,4,200
+10-15-2023 20:32:16,sachu.thomas@law.christuniversity.in,Sachu Saji Thomas,Male,BBA LLB,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-15-2023 20:33:08,s.bharath@bcomfan.christuniversity.in,Rolex,Male,BCOM,Non- Veg,South Indian,Yes,Cafe Chopsticks,Budget,Less than 3,4,200
+10-15-2023 20:33:08,nava.yauvan@law.christuniversity.in,Nava Yauvan,Male,BBA LLB,Both,North Indian,Sometimes,Steaming Mugs,Quantity,Less than 3,3,100
+10-15-2023 20:33:08,ruchita.r@law.christuniversity.in,Ruchita,Male,BBA,Non- Veg,South Indian,Yes,Cafe Chopsticks,All of the above,Less than 3,3,200
+10-15-2023 20:33:09,anan.gibi@bcomfan.christuniversity.in,Anan K Gibi,Male,BCOM,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,200
+10-15-2023 20:33:09,jiya.mehta@law.christuniversity.in,Jiya Mehta,Female,BBA LLB,Both,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,5,200
+10-15-2023 20:33:09,vaishnavi.c@law.christuniversity.in,Vaishnavi,Female,BBA,Both,South Indian,Yes,Steaming Mugs,Quality,Less than 3,4,100
+10-15-2023 20:34:11,anisha.khamari@bba.christuniversity.in,Anisha Khamari,Female,BBA,Both,North Indian,No,Ganga Ram,Budget,Less than 3,3,100
+10-15-2023 20:34:11,divyani.a@law.christuniversity.in,Divyani,Female,BBA LLB,Both,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-15-2023 20:34:11,yaswanth.kumar@bba.christuniversity.in,Yaswanth Kumar,Male,BBA,Both,South Indian,Sometimes,Ganga Ram,Quantity,Less than 3,3,100
+10-15-2023 20:35:07,rituj.jaiswal@law.christuniversity.in,Rituj Jaiswal,Male,BBA LLB,Veg,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,4,100
+10-15-2023 20:35:07,anoushka.das@law.christuniversity.in,anoushka,Female,BBA LLB,Non- Veg,South Indian,No,Cafe by the Valley,All of the above,Less than 3,3,200
+10-15-2023 20:35:07,fathimathul.shoukkathali@bba.christuniversity.in,Fathima,Male,BBA,Veg,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-15-2023 20:37:08,atharva.vetal@msds.christuniversity.in,Atharva Vetal,Male,MSc DS,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,200
+10-15-2023 20:37:08,cj.lakshmy@msea.christuniversity.in,C J Lakshmy,Female,MSc Economics & Analytics,Non- Veg,North Indian,No,Cafe Chopsticks,Quality,Less than 3,4,100
+10-15-2023 20:37:08,assiha.abey@law.christuniversity.in,Asisha,Male,BBA,Non- Veg,South Indian,Yes,Cafe Chopsticks,Quality,Less than 3,4,50
+10-15-2023 20:40:39,ankit.nair@law.christuniversity.in,Ankit S Nair,Male,BBA LLB,Both,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-15-2023 20:40:39,sandeep.kumar@msds.christuniversity.in,SANDEEP KUMAR,Male,MSc DS,Veg,North Indian,No,Cafe by the Valley,Quality,Less than 3,3,200
+10-15-2023 20:40:39,siva.aleti@msds.christuniversity.in,Adhiraaa,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,200
+10-15-2023 20:44:03,abhigyan.pal@bba.christuniversity.in,Abhigyan Pal,Male,BBA,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-15-2023 20:44:03,sankar.murugan@msds.christuniversity.in,Sankar Murugan,Male,MSc DS,Both,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,3,100
+10-15-2023 20:44:03,amy.john@bcomfan.christuniversity.in,Amy Susan John,Male,MSc DS,Non- Veg,South Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,50
+10-15-2023 20:49:09,shruti.sharma@bds.christuniversity.in,Shruti Sharma,Female,BSC DS,Veg,North Indian,No,Ganga Ram,All of the above,Less than 3,4,200
+10-15-2023 20:49:09,Aditisingh@law.christuniversity.in,Aditi singh,Male,MSc DS,Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,100
+10-15-2023 20:49:09,krupa.john@bds.christuniversity.in,Krupa,Male,MSc DS,Both,North Indian,No,Cafe by the Valley,All of the above,Less than 3,3,200
+10-15-2023 20:49:30,Karan.lakhani@bds.christuniversity.in,Kara Lakhani,Other,BSC DS,Veg,North Indian,No,Cafe by the Valley,Quality,Less than 3,4,350
+10-15-2023 20:49:30,pramyuktha.r@law.christuniversity.in,Pramyuktha R,Male,MSc DS,Non- Veg,South Indian,No,Steaming Mugs,Budget,Less than 3,3,200
+10-15-2023 20:49:30,thasmiya.manikandan@law.christuniversity.in,Thasmiya Manikandan,Male,MSc DS,Non- Veg,North Indian,Yes,Cafe Chopsticks,Budget,Less than 3,4,100
+10-15-2023 22:09:53,sherick.matthew@law.christuniversity.in,Sherick Matthew,Male,BBA LLB,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,4,350
+10-15-2023 22:09:53,chirag.n@msds.christuniversity.in,Chirag N,Female,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,50
+10-15-2023 22:09:53,angel.johnson@law.christuniversity.in,Angel Mary Johnson,Male,MSc DS,Non- Veg,North Indian,No,Cafe Chopsticks,Budget,Less than 3,2,100
+10-15-2023 22:43:38,juhi.rathore@bsceah.christuniversity.in,Juhi Rathore,Female,BSC EA,Veg,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-15-2023 22:43:38,avula.nithin@bscdsh.christuniversity.in,avula nithin,Male,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,200
+10-15-2023 22:43:38,r.lalrinmawii@msds.christuniversity.in,R lalrinmawii,Male,MSc DS,Both,South Indian,Yes,Cafe Chopsticks,Quality,Less than 3,4,100
+10-15-2023 22:52:32,kanishk.kk@law.christuniversity.in,Kanishk kk,Male,BA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,350
+10-15-2023 22:52:32,aman.singh@msds.christuniversity.in,Aman,Female,BBA LLB,Both,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,100
+10-15-2023 22:52:32,alysha.ghosh@bbabah.christuniversity.in,Alysha Ghosh,Male,BCOM,Veg,North Indian,No,Cafe by the Valley,Quantity,Less than 3,3,350
+10-15-2023 23:44:01,sanskriti.singh@law.christuniversity.in,Sanskriti Singh,Female,BBA LLB,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,5,200
+10-15-2023 23:44:01,sreedhar.s@law.christuniversity.in,Sreedhar shyam k,Female,MSc DS,Both,North Indian,Yes,Cafe Chopsticks,All of the above,Less than 3,5,200
+10-15-2023 23:44:01,mary.analiya@mba.christuniversity.in,Analiya,Male,BSC DATA SCIENCE,Both,North Indian,Sometimes,Steaming Mugs,Quantity,Less than 3,1,200
+10-16-2023 1:16:51,sri.nanda@bsceah.christuniversity.in,Sri Nanda R K,Male,BSC EA,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-16-2023 1:16:51,kripan.jp@msds.christuniversity.in,Kripan j p,Female,MSc DS,Both,South Indian,No,Steaming Mugs,Quantity,Less than 3,2,100
+10-16-2023 1:16:51,ps.anusha@msds.christuniversity.in,P S Anusha,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,200
+10-16-2023 1:37:01,sahil.sahu@bba.christuniversity.in,Sahil sahu,Male,BBA,Veg,North Indian,Sometimes,Ganga Ram,Quality,Less than 3,4,100
+10-16-2023 1:37:01,edwin.shabu@bcomfah.christuniversity.in,Edwin Shabu,Male,MSc DS,Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-16-2023 1:37:01,nida.khan@bba.christuniversity.in,Nida,Female,MSc Economics & Analytics,Veg,North Indian,Sometimes,Concerto,Quality,Less than 3,4,200
+10-16-2023 17:09:23,rochana.pandit@law.christuniversity.in,ROCHANA R PANDIT,Female,BBA LLB,Veg,South Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,350
+10-16-2023 17:09:23,sreelakshmi.g@law.christuniversity.in,Sreelakshmi G,Female,MSc DS,Both,North Indian,Yes,Cafe Chopsticks,Quality,Less than 3,4,200
+10-16-2023 17:09:23,akshay.babu@bds.christuniversity.in,Akshay Babu,Male,MSc DS,Veg,South Indian,Yes,Concerto,Quantity,Less than 3,3,200
+10-16-2023 17:10:11,chayan.sankhla@law.christuniversity.in,Chayan Sankhla,Male,BBA LLB,Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-16-2023 17:10:11,mitul.madhulal@msds.christuniversity.in,Mitul Madhulal,Male,MSc DS,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,200
+10-16-2023 17:10:11,naveen.krishna@msds.christuniversity.in,Naveen krishna,Female,MSc DS,Veg,South Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,100
+10-16-2023 17:10:25,mitali.gour@law.christuniversity.in,Mitali Gour,Female,BA LLB,Both,North Indian,Sometimes,Cafe by the Valley,All of the above,More than 7,4,200
+10-16-2023 17:10:25,shristy.s@msds.christuniversity.in,Shristy,Female,MSc DS,Both,South Indian,Yes,Cafe by the Valley,All of the above,More than 7,4,350
+10-16-2023 17:10:25,homita.ganguly@ecoa.christuniversity.in,Homita Ganguly,Female,BBA,Both,North Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,4,100
+10-16-2023 17:11:53,priyanshi.varshney@law.christuniversity.in,Priyanshi,Female,BBA LLB,Veg,North Indian,No,Steaming Mugs,Quality,Less than 3,4,350
+10-16-2023 17:11:53,rosh.r@bscdsh.christuniversity.in,Rosh R,Male,BSC DATA SCIENCE,Non- Veg,North Indian,Sometimes,Concerto,All of the above,Less than 3,4,100
+10-16-2023 17:11:53,shalvi.kapoor@law.christuniversity.in,Shalvi kapoor,Male,BSC ECONOMICS AND ANALYTICS,Non- Veg,South Indian,Sometimes,Concerto,Quality,Less than 3,3,100
+10-16-2023 17:12:42,vatsal.vyas@law.christuniversity.in,Vatsal vyas,Male,BBA LLB,Veg,North Indian,No,Ganga Ram,Budget,Less than 3,3,100
+10-16-2023 17:12:42,23122307,Ritu Kumari Shaw,Male,BSC DATA SCIENCE,Both,South Indian,No,Cafe Chopsticks,Quantity,Less than 3,4,200
+10-16-2023 17:12:42,soujanya.pillai@law.christuniversity.in,Soujanya Pillai,Male,BSC ECONOMICS AND ANALYTICS,Veg,North Indian,Yes,Cafe Chopsticks,Budget,Less than 3,5,100
+10-16-2023 17:12:42,om.kumar@bbabah.christuniversity.in,Om kumar,Male,BBA,Both,South Indian,Sometimes,Steaming Mugs,Quality,More than 7,4,100
+10-16-2023 17:12:42,simon.lakshan@law.christuniversity.in,SIMON LAKSHAN A,Male,MSc DS,Both,South Indian,Yes,Cafe Chopsticks,All of the above,More than 7,4,200
+10-16-2023 17:12:42,saristha.saha@msds.christuniversity.in,Saristha Saha,Female,BSC DATA SCIENCE,Both,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,350
+10-16-2023 17:13:24,kashish.dhan@bbabah.christuniversity.in,Kashish Dhan,Male,BBA,Non- Veg,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,4,100
+10-16-2023 17:13:24,emmanuel.joby@law.christuniversity.in,Emmanuel David Joby,Male,MSc DS,Both,South Indian,No,Steaming Mugs,Quality,Less than 3,3,100
+10-16-2023 17:13:24,tannu.khatri@law.christuniversity.in,Tannu Khatri,Male,BSC DATA SCIENCE,Both,North Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,200
+10-17-2023 11:19:19,rajeswaran.m@msds.christuniversity.in,Rajeswaran M,Male,Other,Non- Veg,South Indian,Yes,Cafe by the Valley,Quality,Less than 3,3,100
+10-17-2023 11:19:19,nevin.vijils@law.christuniversity.in,Nevin C Vijils,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,100
+10-17-2023 11:19:19,santhosh.krishna@law.christuniversity.in,Santhoshkrishna GM,Male,BSC DATA SCIENCE,Both,North Indian,Yes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-17-2023 11:26:23,mubashir.salim@msds.christuniversity.in,Mubashir Salim,Male,MSc DS,Both,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,4,100
+10-17-2023 11:26:23,harsh.bhalotia@law.christuniversity.in,Harsh bhalotia,Female,MSc DS,Non- Veg,South Indian,Sometimes,Concerto,Quality,Less than 3,3,200
+10-17-2023 11:26:23,aaronthomas@law.christuniveristy.in,Aaron Thomas,Male,MSc DS,Non- Veg,North Indian,Yes,Cafe by the Valley,Quantity,Less than 3,2,50
+10-17-2023 11:27:54,anurag.yadav@msds.christuniversity.in,Anurag yadav,Male,MSc DS,Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,5,100
+10-17-2023 11:27:54,swarna.sammera@bbabah.christuniversity.in,Swarna Sameera,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-17-2023 11:27:54,steve.bennett@law.christuniversity.in,Steve Bennett,Male,BBA,Both,South Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,2,200
+10-17-2023 11:37:54,arunhare@msds.christuniversity.in,Arunhare,Male,MSc DS,Non- Veg,South Indian,No,Cafe Chopsticks,Quality,Less than 3,4,100
+10-17-2023 11:37:54,Pavan.rama@bbabah.christuniversity.in,Satti pavan rama krishna reddy,Male,BA LLB,Both,South Indian,Yes,Cafe Chopsticks,Budget,Less than 3,4,50
+10-17-2023 11:37:54,prakruthi.rai@msds.christuniversity.in,Prakrathi,Male,BBA,Non- Veg,North Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,5,100
+10-17-2023 12:23:20,falak.ansari@msds.christuniversity.in,Falak Ansari,Female,MSc DS,Non- Veg,South Indian,Sometimes,Ganga Ram,Quality,Less than 3,4,50
+10-17-2023 12:23:20,pedapudi.netaji@bba.christuniversity.in,Netaji Pedapudi,Female,MSc Economics & Analytics,Non- Veg,South Indian,Yes,Cafe Chopsticks,Quantity,Less than 3,4,350
+10-17-2023 12:23:20,rayhan.aadil@bbabab.christuniversity.in,Rayhan aadil,Male,BA LLB,Non- Veg,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,200
+10-17-2023 13:12:30,souvik.chowdhury@msds.christuniversity.in,Souvik,Male,MSc DS,Both,North Indian,Yes,Ganga Ram,Quality,Less than 3,3,50
+10-17-2023 13:12:30,thumar.dhruvil@msds.christuniversity.in,Dhruvil thumar,Male,BBA LLB,Both,North Indian,Sometimes,Steaming Mugs,Quality,Less than 3,4,350
+10-17-2023 13:12:30,Annmariya.jimmy@bbabah.christuniversity.in,Annmariya jimmy,Female,BSC ECONOMICS AND ANALYTICS,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,More than 7,5,350
+10-17-2023 16:23:55,aleena.sebastian@msds.christuniversity.in,Aleena Mariya Sebastian,Female,MSc DS,Non- Veg,South Indian,Yes,Cafe by the Valley,All of the above,Less than 3,4,200
+10-17-2023 16:23:55,george.thomas@msds.christuniversity.in,George Thomas,Male,BCOM,Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,350
+10-17-2023 16:23:55,sneha.dutt@law.christuniversity.in,S Sneha Dutt,Female,BBA LLB,Non- Veg,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,3,200
+10-17-2023 16:25:47,debamala.adhikari@msds.christuniversity.in,Debamala,Male,MSc DS,Veg,North Indian,Sometimes,Cafe by the Valley,Quantity,Less than 3,4,100
+10-17-2023 16:25:47,rohin.koshy@msds.christuniversity.in,Rohin Kuruvilla Koshy,Male,BCOM,Veg,North Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,3,50
+10-17-2023 16:25:47,ajay.peediackal@mba.christuniversity.in,Ajay S Peediackal,Male,BA LLB,Both,South Indian,No,Cafe Chopsticks,Quality,Less than 3,3,200
+10-17-2023 16:29:16,10-17-2023 16:29:16,Nishi Singh,Female,MSc DS,Veg,North Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,3,200
+10-17-2023 16:29:16,akshat.murugesan@bcomfah.christuniversity.in,Akshat,Female,BBA LLB,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,50
+10-17-2023 16:29:16,Meenakshi.s@mba.christuniversity.in,Meenakshi,Female,BA LLB,Both,South Indian,No,Cafe Chopsticks,Quality,Less than 3,3,350
+10-17-2023 17:33:23,farheen.bano@law.christuniversity.in,Farheen Bano,Female,BA LLB,Both,North Indian,No,Concerto,All of the above,Less than 3,4,200
+10-17-2023 17:33:23,reneduchamp1907@gmail.com,Sarvesh,Male,BCOM,Non- Veg,North Indian,No,Cafe by the Valley,Budget,Less than 3,3,200
+10-17-2023 17:33:23,francisjose@mba.christuniversity.in,Francis Jose,Male,MBA,Both,South Indian,No,Steaming Mugs,Quality,Less than 3,5,200
+10-17-2023 18:25:13,nandhikasri.p@msds.chirstuniversity.in,Nandhika sri P,Female,MSc DS,Non- Veg,South Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-17-2023 18:25:13,john.thattil@msds.christuniversity.in,John George Thattil,Female,BBA LLB,Both,North Indian,Yes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-17-2023 18:25:13,rodda.sathvika@msds.christuniversity.in,Sathvika teja,Female,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,200
+10-17-2023 19:00:00,anto.gabriel@msds.christuniversity.in,ANTO GABRIEL,Male,MSc DS,Non- Veg,South Indian,Yes,Steaming Mugs,Budget,Less than 3,4,50
+10-17-2023 19:00:00,indu.pv@msea.christuniversity.in,Indu pv,Male,BSC DATA SCIENCE,Non- Veg,South Indian,Yes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-17-2023 19:00:00,falak.ansari@msds.christunvirsity,Falak Ansari,Female,MSc DS,Both,South Indian,Sometimes,Steaming Mugs,Budget,Less than 3,3,200
+10-18-2023 10:25:31,sukannadas8591@gmail.com,Sukanna Das,Female,MSc DS,Non- Veg,North Indian,No,Cafe by the Valley,Quality,Less than 3,4,50
+10-18-2023 10:25:31,nandhana.rajeev@msea.christuniversity.in,Nandhana Rajeev,Female,MSc Economics & Analytics,Non- Veg,North Indian,No,Cafe Chopsticks,All of the above,Less than 3,4,200
+10-18-2023 10:25:31,abin.roy@science.christuniversity.in,Abin roy,Male,MSc DS,Non- Veg,North Indian,No,Cafe Chopsticks,Quality,Less than 3,4,350
+10-18-2023 10:30:12,sarnalika.paul@msds.christuniversity.in,SARNALIKA PAUL,Female,MSc DS,Non- Veg,South Indian,Yes,Concerto,Quantity,Less than 3,3,100
+10-18-2023 10:30:12,nandita.sharma@bba.christuniversity.in,Nandita Sharma,Male,BBA LLB,Non- Veg,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,200
+10-18-2023 10:30:12,parul.sharma@law.christuniversity.in,Parul Sharma,Female,BA LLB,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,350
+10-18-2023 10:58:01,ujan.galui@science.christuniversity.in,Ujan galui,Male,MSc DS,Non- Veg,North Indian,No,Cafe Chopsticks,Budget,Less than 3,1,350
+10-18-2023 10:58:01,anirudh.nair@ecoa.christuniversity.in,Anirudh Nair,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-18-2023 10:58:01,vedant.nehal@msds.christuniversity.in,Vedant Nehal,Male,BBA LLB,Veg,North Indian,Sometimes,Cafe by the Valley,Budget,Less than 3,3,200
+10-18-2023 11:38:44,swastik.roy@msds.christuniversity.in,Swastik Roy,Male,MSc DS,Non- Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-18-2023 11:38:44,aditya.pratap@ecoa.christuniversity.in,Aditya Pratap Singh,Male,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,2,100
+10-18-2023 11:38:44,threeshal.sashtiy@bds.christuniversity.in,Threeshal Sashtiy,Male,BCOM,Both,South Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,3,350
+10-18-2023 22:48:32,rahitha@msds.christuniversity.in,Rahitha ks,Female,MSc DS,Non- Veg,South Indian,No,Cafe by the Valley,All of the above,Less than 3,4,50
+10-18-2023 22:48:32,driti.singhania@bds.Christ university.in,Driti Singhania,Female,MSc DS,Both,South Indian,Yes,Cafe Chopsticks,All of the above,Less than 3,3,100
+10-18-2023 22:48:32,bikkina.kushalika@bbabah.christuniversity.in,kushalika,Female,BSC DATA SCIENCE,Veg,North Indian,Yes,Concerto,Quantity,Less than 3,3,350
+10-19-2023 16:03:11,alwin.joseph@christuniversity.in,Alwin,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,5,50
+10-19-2023 16:03:11,siddharth.bhardwaj@bds.christuniversity.in,Siddharth Bhardwaj,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-19-2023 16:03:11,nilanjana.dey@law.christuniversity.in,NILANJANA DEY,Female,BBA LLB,Non- Veg,North Indian,No,Cafe Chopsticks,Quality,Less than 3,3,200
+10-19-2023 16:08:36,dipanwita.das@science.christuniversity.in,Dipanwita Das,Male,Other,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,2,350
+10-19-2023 16:08:36,krish.agarwal@bds.christuniversity.in,Krish Agarwal,Male,MSc DS,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,More than 7,3,100
+10-19-2023 16:08:36,abith.sunil@law.christuniversity.in,Abith.K.Sunil,Male,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,350
+10-19-2023 17:19:02,dhej@msds.christuniversity.in,Dhejaswini,Male,MSc DS,Non- Veg,South Indian,Yes,Cafe by the Valley,Quality,Less than 3,5,50
+10-19-2023 17:19:02,v.sravani@msds.christuniversity.in,V.Sravani,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,2,100
+10-19-2023 17:19:02,shantanu.venkatesh@bbabah.christuniversity.in,Shantanu Venkatesh Ambaty,Male,MSc DS,Both,North Indian,Yes,Steaming Mugs,Quality,Less than 3,3,200
+10-19-2023 19:00:59,anjo.binu@msgfa.christuniversity.in,ANJO BINU,Female,MSc DS,Non- Veg,North Indian,No,Concerto,Quality,Less than 3,3,100
+10-19-2023 19:00:59,satya.budithi@bba.christuniversity.in,Satya Tej Budithi,Male,BA LLB,Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,350
+10-19-2023 19:00:59,tushar.kumar@bbabah.christuniversity.in,Tushar Kumar,Male,MSc DS,Both,South Indian,Yes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-19-2023 22:29:10,huzaifalji63@gmail.com,Huzaif Alji,Female,MSc EA,Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,50
+10-19-2023 22:29:10,Viswateja.reddy@bba.christuniversity.in,Viswateja poreddy,Male,BA LLB,Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,200
+10-19-2023 22:29:10,arjun.malik@bbabah.christuniversity.in,Arjun Malik,Male,BBA,Both,South Indian,Yes,Concerto,Quality,Less than 3,3,200
+10-21-2023 20:46:16,vikash.shakya@msds.christuniversity.in,Vikash Shakya,Female,Other,Non- Veg,South Indian,Yes,Cafe by the Valley,Budget,Less than 3,4,100
+10-21-2023 20:46:16,harivarshan.m@law.christuniversity.in,Harivarshan M,Male,BBA,Non- Veg,South Indian,No,Cafe by the Valley,Budget,Less than 3,3,200
+10-21-2023 20:46:16,patha.harishkumar@msds.christuniversity.in,Patha Harish Kumar,Male,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-21-2023 20:46:16,saaransh.dhalwani@msgfa.christuniversity.in,Saaransh,Male,MBA,Both,South Indian,No,Cafe Chopsticks,Quality,Less than 3,1,350
+10-21-2023 20:46:16,thilak.g@msds.christuniversity.in,Thilak G,Male,MSc DS,Both,South Indian,No,Steaming Mugs,All of the above,Less than 3,4,200
+10-21-2023 20:46:16,nagarjunan.ps@law.christuniversity.in,Nagarjunan P S,Male,BA LLB,Both,South Indian,Yes,Concerto,Budget,Less than 3,5,200
+10-21-2023 20:46:16,prasanth.pr@bsceah.christuniversity.in,Prasanth P R,Male,BSC EA,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,350
+10-21-2023 20:46:16,barath.kumar@bsceah.christuniversity.in,Barath Kumar,Male,BSC EA,Both,South Indian,No,Ganga Ram,All of the above,Less than 3,3,350
+10-21-2023 20:46:16,yuvaraj.p@bds.christuniversity.in,Yuvaraj P,Male,BSC DS,Both,South Indian,Yes,Cafe by the Valley,Budget,Less than 3,4,350
+10-21-2023 20:46:16,budhil.k@bba.christuniversity.in,Budhil K,Male,BBA,Both,South Indian,Yes,Cafe Chopsticks,Quality,Less than 3,3,100
+10-21-2023 20:46:16,pranaav.b@bba.christuniversity.in,Pranaav B,Male,BBA,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-21-2023 20:46:16,jagat.m@bba.christuniversity.in,Jagat M,Male,BBA,Both,South Indian,Yes,Steaming Mugs,All of the above,Less than 3,1,200
+10-21-2023 20:46:16,jayaprakash.r@law.christuniversity.in,Jayaprakash R,Male,BA LLB,Both,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,350
+10-21-2023 20:46:16,murali.mohan@msds.christuniversity.in,Murali Mohan,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-21-2023 20:46:16,banu.prakash@msds.christuniversity.in,Banu Prakash,Male,MSc DS,Both,South Indian,Sometimes,Steaming Mugs,All of the above,More than 7,4,200
+10-21-2023 20:46:16,vani.p@msds.christuniversity.in,Vani P,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-21-2023 20:46:16,padmaja.b@msds.christuniversity.in,Padmaja B,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,5,200
+10-21-2023 20:46:16,bhuvana.y@msds.christuniversity.in,Bhuvana Y,Female,MSc DS,Both,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,3,200
+10-21-2023 20:46:16,barani.kumar@msds.christuniversity.in,Barani Kumar,Male,MSc DS,Non- Veg,South Indian,No,Cafe Chopsticks,All of the above,Less than 3,3,200
+10-21-2023 20:46:16,lokesh@msds.christuniversity.in,Lokesh,Male,MSc DS,Non- Veg,North Indian,No,Cafe by the Valley,Quality,Less than 3,4,100
+10-21-2023 20:46:16,uma.maheshwari@msds.christuniversity.in,Uma Maheshwari,Female,MSc DS,Veg,North Indian,No,Steaming Mugs,Quality,Less than 3,3,200
+10-21-2023 20:46:16,shoba.r@msds.christuniversity.in,Shoba,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,100
+10-21-2023 20:46:16,saradha@msds.christuniversity.in,Saradha,Female,MSc DS,Veg,North Indian,Sometimes,Steaming Mugs,Quality,Less than 3,3,100
+10-21-2023 20:46:16,keerthika.k@msds.christuniversity.in,Keerthika K,Female,MSc DS,Non- Veg,South Indian,No,Cafe Chopsticks,Budget,Less than 3,3,200
+10-21-2023 20:46:16,radha.krishnan@msds.christuniversity.in,Radha Krishnan,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,50
+10-21-2023 20:46:16,prabhu@bcom.christuniversity.in,Prabhu,Male,BCOM,Both,North Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,200
+10-21-2023 20:46:16,ramesh@msds.christuniversity.in,Ramesh,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-21-2023 20:46:16,bharathi@mscea.christuniversity.in,Bharathi,Female,MSc EA,Both,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,5,200
+10-21-2023 20:46:16,sreeramulu@msds.christuniversity.in,Sreeramulu,Male,MSc DS,Both,South Indian,No,Cafe Chopsticks,Quantity,Less than 3,2,100
+10-21-2023 20:46:16,chandrasekar@msds.christuniversity.in,Chandrasekar,Male,MSc DS,Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-21-2023 20:46:16,vasundhara@msds.christuniversity.in,Vasundhara,Female,MSc DS,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,200
+10-21-2023 20:46:16,jagan@msds.christuniversity.in,Jagan,Male,MSc DS,Both,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,200
+10-21-2023 20:46:16,nuthana@msds.christuniversity.in,Nuthana,Female,MSc DS,Both,South Indian,Yes,Concerto,All of the above,More than 7,4,350
+10-21-2023 20:46:16,vignesh@msds.christuniversity.in,vignesh@msds.christuniversity.in,Male,MSc DS,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-21-2023 20:46:16,aravind@msds.christuniversity.in,Aravind,Male,MSc DS,Both,South Indian,No,Cafe Chopsticks,Quantity,Less than 3,4,200
+10-21-2023 20:46:16,suhail.khan@law.christuniversity.in,Suhail Khan,Male,BA LLB,Both,South Indian,Yes,Steaming Mugs,All of the above,More than 7,4,200
+10-21-2023 20:46:16,harshith.khan@msds.christuniversity.in,Harshith Khan,Male,MSc DS,Both,South Indian,Yes,Steaming Mugs,All of the above,More than 7,4,200
+10-21-2023 20:46:16,anbu@bcom.christuniversity.in,Anbu,Male,BCOM,Non- Veg,North Indian,No,Cafe by the Valley,Budget,Less than 3,3,200
+10-21-2023 20:46:16,arivu@mba.christuniversity.in,Arivu,Male,MBA,Both,South Indian,No,Steaming Mugs,Quality,Less than 3,5,200
+10-21-2023 20:46:16,poornima.senthil@msds.christuniversity.in,Poornima Senthil,Female,MSc DS,Non- Veg,South Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-21-2023 20:46:16,anu@law.christuniversity.in,Anu,Female,BBA LLB,Both,North Indian,Yes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-21-2023 20:46:16,elsa@law.christuniversity.in,Elsa,Female,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,200
+10-21-2023 20:46:16,karthi@msds.christuniversity.in,Karthi,Male,MSc DS,Non- Veg,South Indian,Yes,Steaming Mugs,Budget,Less than 3,4,50
+10-21-2023 20:46:16,shiva@bsds.christuniversity.in,Shiva,Male,BSC DATA SCIENCE,Non- Veg,South Indian,Yes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-21-2023 20:46:16,madhu@msds.christuniversity.in,Madhu,Female,MSc DS,Both,South Indian,Sometimes,Steaming Mugs,Budget,Less than 3,3,200
+10-21-2023 20:46:16,samantha@msds.christuniversity.in,Samantha,Female,MSc DS,Non- Veg,North Indian,No,Cafe by the Valley,Quality,Less than 3,4,50
+10-21-2023 20:46:16,kanmani@msea.christuniversity.in,Kanmani,Female,MSc Economics & Analytics,Non- Veg,North Indian,No,Cafe Chopsticks,All of the above,Less than 3,4,200
+10-21-2023 20:46:16,vaibhav@msds.christuniversity.in,Vaibhav,Male,MSc DS,Non- Veg,North Indian,No,Cafe Chopsticks,Quality,Less than 3,4,350
+10-21-2023 20:46:16,nidharshana@msds.christuniversity.in,Nidharshana,Female,MSc DS,Non- Veg,South Indian,Yes,Concerto,Quantity,Less than 3,3,100
+10-21-2023 20:46:16,pugazh@law.christuniversity.in,Pugazh,Male,BBA LLB,Non- Veg,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,200
+10-21-2023 20:46:16,shivangi@law.christuniversity.in,Shivangi,Female,BA LLB,Non- Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,350
+10-21-2023 20:46:16,bala@msds.christuniversity.in,Bala,Male,MSc DS,Non- Veg,North Indian,No,Cafe Chopsticks,Budget,Less than 3,1,350
+10-21-2023 20:46:16,sunitha@msds.christuniversity.in,Sunitha,Female,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-21-2023 20:46:16,kureshi@law.christuniversity.in,Kureshi,Male,BBA LLB,Veg,North Indian,Sometimes,Cafe by the Valley,Budget,Less than 3,3,200
+10-21-2023 20:46:16,suriya@msds.christuniversity.in,Suriya,Male,MSc DS,Non- Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-21-2023 20:46:16,kamal@msds.christuniversity.in,Kamal,Male,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,2,100
+10-21-2023 20:46:16,surya.sj@bcom.christuniversity.in,S J Surya,Male,BCOM,Both,South Indian,Sometimes,Cafe by the Valley,All of the above,Less than 3,3,350
+10-21-2023 20:46:16,deepa@msds.christuniversity.in,Deepa,Female,MSc DS,Non- Veg,South Indian,No,Cafe by the Valley,All of the above,Less than 3,4,50
+10-21-2023 20:46:16,pavithra.lakshmi@msds.christuniversity.in,Pavithra Lakshmi,Female,MSc DS,Both,South Indian,Yes,Cafe Chopsticks,All of the above,Less than 3,3,100
+10-21-2023 20:46:16,darsha.gupta@bsds.christuniversity.in,Darsha Gupta,Female,BSC DATA SCIENCE,Veg,North Indian,Yes,Concerto,Quantity,Less than 3,3,350
+10-21-2023 20:46:16,ajith.kumar@msds.christuniversity.in,Ajith Kumar,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,5,50
+10-21-2023 20:46:16,kajal@msds.christuniversity.in,Kajal,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-21-2023 20:46:16,triya@law.christuniversity.in,Triya,Female,BBA LLB,Non- Veg,North Indian,No,Cafe Chopsticks,Quality,Less than 3,3,200
+10-21-2023 20:46:16,vijay.joseph@christuniversity.in,Vijay Joseph,Male,Other,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,2,350
+10-21-2023 20:46:16,vishal@msds.christuniversity.in,Vishal,Male,MSc DS,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,Quantity,More than 7,3,100
+10-21-2023 20:46:16,simbhu.tr@law.christuniversity.in,Simbu T R,Male,BBA LLB,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,350
+10-21-2023 20:46:16,shivakarthikeyan@msds.christuniversity.in,Shivakarthikeyan,Male,MSc DS,Non- Veg,South Indian,Yes,Cafe by the Valley,Quality,Less than 3,5,50
+10-21-2023 20:46:16,gopika.das@msds.christuniversity.in,Gopika Das,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,2,100
+10-21-2023 20:46:16,kunal.tigga@msds.chrisuniversity.in,Kunal Tigga,Male,MSc DS,Both,North Indian,Yes,Steaming Mugs,Quality,Less than 3,3,200
+10-21-2023 20:46:16,monisha@msds.christuniversity.in,Monisha,Female,MSc DS,Non- Veg,North Indian,No,Concerto,Quality,Less than 3,3,100
+10-21-2023 20:46:16,sarath@law.christuniversity.in,Sarath,Male,BA LLB,Veg,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,350
+10-21-2023 20:46:16,ramu@msds.christuniversity.in,Ramu,Male,MSc DS,Both,South Indian,Yes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-21-2023 20:46:16,ramya@msea.christuniversity.in,Ramya,Female,MSc EA,Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,50
+10-21-2023 20:46:16,anthony.das@law.christuniversity.in,Anthony Das,Male,BA LLB,Veg,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,4,200
+10-21-2023 20:46:16,harold.das@bba.christuniversity.in,Harold Das,Male,BBA,Both,South Indian,Yes,Concerto,Quality,Less than 3,3,200
+10-21-2023 20:46:16,lisa@christuniversity.in,Lisa,Female,Other,Non- Veg,South Indian,Yes,Cafe by the Valley,Budget,Less than 3,4,100
+10-21-2023 20:46:16,alisa@law.christuniversity.in,Alisa,Female,BA LLB,Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,3,100
+10-21-2023 20:46:16,elango@bba.christuniversity.in,Elango,Male,BBA,Both,North Indian,Sometimes,Steaming Mugs,Quality,More than 7,4,200
+10-21-2023 20:46:16,shilpa@bba.christuniversity.in,Shilpa,Female,BBA,Veg,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,3,100
+10-21-2023 20:46:16,yamuna@bcom.christuniversity.in,Yamuna,Female,BCOM,Both,South Indian,No,Steaming Mugs,Budget,Less than 3,3,100
+10-21-2023 20:46:16,sai.kalyan@bsds.christuniversity.in,Sai Kalyan,Male,BSC DS,Non- Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-21-2023 20:46:16,eesha@bsceah.christuniversity.in,Eesha,Female,BSC EA,Veg,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-21-2023 20:46:16,allu.arjun@bsceah.christuniversity.in,Allu Arjun,Male,BSC EA,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-21-2023 20:46:16,arha@christuniversity.in,Arha,Female,Other,Non- Veg,South Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-21-2023 20:46:16,sneha@bsceah.christuniversity.in,Sneha,Female,BSC EA,Both,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,350
+10-21-2023 20:46:16,niharika@bsceah.christuniersity.in,Niharika,Female,BSC EA,Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-21-2023 20:46:16,mahesh.babu@bsds.christuniversity.in,Mahesh Babu,Male,BSC DS,Non- Veg,North Indian,Yes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-21-2023 20:46:16,ram.charan@bba.christuniversity.in,Ram Charan,Male,BBA,Veg,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,200
+10-21-2023 20:46:16,chiranjeevi@bba.christuniversity.in,Chiranjeevi,Male,BBA,Veg,South Indian,No,Steaming Mugs,All of the above,Less than 3,5,350
+10-21-2023 20:46:16,arjun.das@bba.christuniversity.in,Arjun Das,Male,BBA,Both,North Indian,No,Concerto,Budget,Less than 3,3,350
+10-21-2023 20:46:16,gayathri@law.christuniversity.in,Gayathri,Female,BA LLB,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,350
+10-21-2023 20:46:16,anirudh.ravichandran@bba.christuniversity.in,Anirudh Ravichandran,Male,BBA,Both,North Indian,Yes,Ganga Ram,All of the above,Less than 3,4,100
+10-21-2023 20:46:16,yuvan.shankar.raja@bba.christuniversity.in,Yuvan Shankar Raja,Male,BBA,Both,South Indian,Yes,Concerto,Quality,Less than 3,4,200
+10-21-2023 20:46:16,shriya@bba.christuniversity.in,Shriya,Female,BBA,Both,North Indian,Sometimes,Steaming Mugs,All of the above,More than 7,4,100
+10-21-2023 20:46:16,"sid.sriram@bba.christuniversity,in",Sid Sriram,Male,BBA,Both,North Indian,Yes,Steaming Mugs,Quality,Less than 3,4,350
+10-21-2023 20:46:16,dhee@bba.christuniversity.in,Dhee,Female,BBA,Veg,North Indian,Sometimes,Concerto,Quality,More than 7,5,200
+10-21-2023 20:46:16,rahman.ar@bba.christuniversity.in,A R Rahman,Male,BBA,Veg,North Indian,Yes,Concerto,All of the above,More than 7,4,200
+10-21-2023 20:46:16,vinay@bba.christuniversity.in,Vinay,Male,BBA,Non- Veg,North Indian,No,Steaming Mugs,All of the above,Less than 3,4,200
+10-21-2023 20:46:16,abirami@bba.christuniversity.in,Abirami,Female,BBA,Both,North Indian,Sometimes,Steaming Mugs,Quality,Less than 3,3,200
+10-21-2023 20:46:16,pazham@bba.christuniversity.in,Pazham,Male,BBA,Non- Veg,North Indian,Yes,Steaming Mugs,Budget,Less than 3,4,200
+10-21-2023 20:46:16,lila@bba.christuniversity.in,Lila,Female,BBA,Both,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,2,200
+10-21-2023 20:46:16,amala@bba.christuniversity.in,Amala,Female,BBA,Veg,,Sometimes,Steaming Mugs,Budget,Less than 3,4,200
+10-21-2023 20:46:16,mala@bba.christuniversity.in,Mala,Male,BBA,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,100
+10-21-2023 20:46:16,linga@bba.christuniversity.in,Linga,Male,BBA,Veg,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,3,350
+10-21-2023 20:46:16,amal@bba.christuniversity.in,Amal,Male,BBA,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,350
+10-22-2023 20:46:16,idrees@mba.christuniversity.in,Idrees,Male,MBA,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,5,350
+10-22-2023 20:46:16,rajesh@bba.christuniversity.in,Rajesh,Male,BBA,Non- Veg,South Indian,No,Cafe by the Valley,Budget,Less than 3,3,200
+10-22-2023 20:46:16,nandha@msds.christuniversity.in,Nandha,Male,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-22-2023 20:46:16,deva@mba.christuniversity.in,Deva,Male,MBA,Both,South Indian,No,Cafe Chopsticks,Quality,Less than 3,1,350
+10-22-2023 23:46:16,vinoth@msds.christuniversity.in,Vinoth,Male,MSc DS,Both,South Indian,No,Steaming Mugs,All of the above,Less than 3,4,200
+10-22-2023 23:46:16,nixon@law.christuniversity.in,Nixon,Male,BA LLB,Both,South Indian,Yes,Concerto,Budget,Less than 3,5,200
+10-22-2023 23:46:16,rakesh@bsceah.christuniversity.in,Rakesh,Male,BSC EA,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,350
+10-22-2023 23:46:16,hari@bsceah.christuniversity.in,Hari,Male,BSC EA,Both,South Indian,No,Ganga Ram,All of the above,Less than 3,3,350
+10-22-2023 23:46:16,zia@bsds.christuniversity.in,Zia,Male,BSC DS,Both,South Indian,Yes,Cafe by the Valley,Budget,Less than 3,4,350
+10-22-2023 23:46:16,praneeth@bba.christuniversity.in,Praneeth,Male,BBA,Both,South Indian,Yes,Cafe Chopsticks,Quality,Less than 3,3,100
+10-22-2023 23:46:16,naren@bba.christuniversity.in,Naren,Male,BBA,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,3,200
+10-22-2023 23:46:16,thanuj@bba.christuniversity.in,Thanuj,Male,BBA,Both,South Indian,Yes,Steaming Mugs,All of the above,Less than 3,1,200
+10-22-2023 23:46:16,jayesh@law.christuniversity.in,Jayesh,Male,BA LLB,Both,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,4,350
+10-22-2023 23:46:16,praveen@msds.christuniversity.in,Praveen,Male,MSc DS,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-22-2023 23:46:16,ravi.teja@msds.christuniversity.in,Ravi Teja,Male,MSc DS,Both,South Indian,Sometimes,Steaming Mugs,All of the above,More than 7,4,200
+10-22-2023 23:46:16,anitha@msds.christuniversity.in,Anitha,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,Quantity,Less than 3,3,100
+10-22-2023 23:46:16,sakshi@msds.christuniversity.in,Sakshi,Female,MSc DS,Both,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,5,200
+10-23-2023 16:20:19,vaishnavi.c@law.chriatuniversity.in,Vaishnavi ,Female,BA LLB,Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,3,100
+10-23-2023 16:22:13,ankit.som@bba.christuniversity.in,Ankit Som,Male,BBA,Both,North Indian,Sometimes,Steaming Mugs,Quality,More than 7,4,200
+10-23-2023 16:22:15,manyam.sushmitha@bba.christuniversity.in,Sushmitha,Female,BBA,Veg,South Indian,Sometimes,Steaming Mugs,All of the above,Less than 3,3,100
+10-23-2023 16:26:10,23114049,Anishka,Female,BCOM,Both,South Indian,No,Steaming Mugs,Budget,Less than 3,3,100
+10-23-2023 16:26:41,kachwala.mohammed@bscdsh.christuniversity.in,Mohammed Kachwala ,Male,BSC DS,Non- Veg,North Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-23-2023 16:27:39,juhi.rathore@bsceah.christuniversity.in,Juhi Rathore,Female,BSC EA,Veg,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,100
+10-23-2023 16:29:59,sri.nanda@ecoa.christuniversity.in,Sri Nanda R K,Male,BSC EA,Both,South Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-23-2023 16:44:32,Gaichuiliu gonmei@gmail.com,Gaichuiliu Gonmei ,Female,Other,Non- Veg,South Indian,Yes,Cafe by the Valley,Quality,Less than 3,4,100
+10-23-2023 16:45:01,10-23-2023 16:45:01,Ayesha Kapadia ,Female,BSC EA,Both,North Indian,Sometimes,Cafe Chopsticks,Budget,Less than 3,3,350
+10-23-2023 16:47:28,shruti.mishra@bsceah.christuniversity.in,Shruti Mishra,Female,BSC EA,Veg,North Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,100
+10-23-2023 16:53:18,rohan.jha@bds.christuniversity.in,Rohan Kumar Jha ,Male,BSC DS,Non- Veg,North Indian,Yes,Cafe Chopsticks,Budget,Less than 3,3,200
+10-23-2023 16:55:25,sathvik.kannegolla@bbabah.christuniversity.in,Sathvik Kannegolla ,Male,BBA,Veg,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,200
+10-23-2023 17:00:25,ashwin.kashyap@bba.christuniversity.in,Ashwin Kashyap,Male,BBA,Veg,South Indian,No,Steaming Mugs,All of the above,Less than 3,5,350
+10-23-2023 17:00:36,Pratik.kumar@bbabah.christuniversity.in,Pratik kumar,Male,BBA,Both,North Indian,No,Concerto,Budget,Less than 3,3,350
+10-23-2023 17:04:52,merin.bency@law.christuniversity.in,Merin Bency,Female,BA LLB,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,3,350
+10-23-2023 17:04:52,margale.kailas@bba.christuniversity.in,Margale Kailas ,Male,BBA,Both,North Indian,Yes,Ganga Ram,All of the above,Less than 3,4,100
+10-23-2023 20:51:31,abhimanyu.v@bbabah.christuniversity.in,Abhimanyu V,Male,BBA,Both,South Indian,Yes,Concerto,Quality,Less than 3,4,200
+10-23-2023 21:18:17,kanika.banerjee@bbabah.christuniversity.in,Kanika Banerjee ,Female,BBA,Both,North Indian,Sometimes,Steaming Mugs,All of the above,More than 7,4,100
+10-23-2023 21:18:48,sk.himanshu@bbabah.christuniversity.in,Sk Himanshu ,Male,BBA,Both,North Indian,Yes,Steaming Mugs,Quality,Less than 3,4,350
+10-23-2023 21:18:59,riya.kumari@bbabah.christuniversity.in,Riya,Female,BBA,Veg,North Indian,Sometimes,Concerto,Quality,More than 7,5,200
+10-23-2023 21:19:05,jatin.p@bbabah.christuniversity.in,Jatin,Male,BBA,Veg,North Indian,Yes,Concerto,All of the above,More than 7,4,200
+10-23-2023 21:19:10,yuvraj.singh@bbabah.christuniversity.in,Yuvraj Singh,Male,BBA,Non- Veg,North Indian,No,Steaming Mugs,All of the above,Less than 3,4,200
+10-23-2023 21:19:15,tanishka.singh@bbabah.christuniversity.in,Tanishka,Female,BBA,Both,North Indian,Sometimes,Steaming Mugs,Quality,Less than 3,3,200
+10-23-2023 21:20:02,dhruv.asija@bbabah.christunivesity.in,Dhruv Asija,Male,BBA,Non- Veg,North Indian,Yes,Steaming Mugs,Budget,Less than 3,4,200
+10-23-2023 21:22:03,manya.khanna@bbabah.christuniversity.in,Manya Khanna ,Female,BBA,Both,North Indian,Sometimes,Cafe by the Valley,Quality,Less than 3,2,200
+10-23-2023 21:22:34,anvesha.agrawal@bbabah.christuniversity.in,Anvesha Agrawal ,Female,BBA,Veg,,Sometimes,Steaming Mugs,Budget,Less than 3,4,200
+10-23-2023 21:30:00,V Manoj ,23111464,Male,BBA,Both,South Indian,Sometimes,Cafe Chopsticks,Quality,Less than 3,4,100
+10-23-2023 22:44:36,ranveer.tatwavedi@bbabah.christuniversity.in,Ranveer Tatwavedi,Male,BBA,Veg,North Indian,Yes,Steaming Mugs,All of the above,Less than 3,3,350
+10-24-2023 5:59:25,jerry.silvon@bbabah.christuniversity.in,Jerry Silvon J. M. ,Male,BBA,Non- Veg,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,4,350
+10-24-2023 18:21:46,georgy.thomas@mba.christuniversity.in,Georgy,Male,MBA,Both,South Indian,Sometimes,Cafe Chopsticks,All of the above,Less than 3,5,350

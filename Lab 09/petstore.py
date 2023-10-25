@@ -1,6 +1,6 @@
 class petstore():
-    def _init_(slef):
-        slef.pet=[]
+    def _init_(self):
+        self.pet=[]
     
     def add_pet(self,name,age, breed,price):
         pet = {

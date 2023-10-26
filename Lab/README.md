@@ -13,9 +13,4 @@ Email: kingsuk.rakshit@msds.christuniversity.in
 | 6  | Lab 06   | Write a program for collecting a string from the user and counting the number of vowels.|<a href="Lab 06">Lab 06</a>|
 | 7  | Lab 07   | # Create a method in the class #to export the detils in the from of CSV Record a minimum of 10 items for income & expense & complete the question "Create a method in the class to export the detils in the from of CSV|<a href="Lab 07">Lab 07</a>|
 | 8  | Lab 08   | Write a Python program to implement a Stack class that has the following functions(Push Item,Pop Item,Print the Items in the stack,Size of Stack,The top item in the stack,Check if the stack is empty)|<a href="Lab 08">Lab 08</a>|
-| 9  | Lab 09   | create a petstore class where you have the details of pets available and their details(The class will have methods
-- Store a new pet details
-- Search for a pet
-- Sell a pet
-- List all pets
-Importing your petstore class, create a petstoremain file, where you will implement a menu-driven program for Admin - who will manage the store & User, who will see the pets and buy pets.|<a href="Lab 09">Lab 09</a>|
+| 9  | Lab 09   | create a petstore class where you have the details of pets available and their details(The class will have methods,Store a new pet details,Search for a pet,Sell a pet,List all pets)|<a href="Lab 09">Lab 09</a>|

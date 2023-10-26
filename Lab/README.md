@@ -11,5 +11,4 @@ Email: kingsuk.rakshit@msds.christuniversity.in
 | 4     | lab_04   | As a data analyst specialist, gather insights from their customers' orders received for Farmers' Harvest in Freshville over time and display them to Emily as she uses your Application.|<a href="Lab 04">Lab 04</a>|
 | 5     | Lab 05   | Write a program for collecting a string from the user and counting the number of vowels.|<a href="Lab 05">Lab 05</a>|
 | 6  | Lab 06   | Write a program for collecting a string from the user and counting the number of vowels.|<a href="Lab 06">Lab 06</a>|
-| 7  | Lab 07   | # Create a method in the class# to export the detils in the from of CSV
-Record a minimum of 10 items for income & expense & complete the question "Create a method in the class to export the detils in the from of CSV.|<a href="Lab 07">Lab 07</a>|
+| 7  | Lab 07   | # Create a method in the class #to export the detils in the from of CSV Record a minimum of 10 items for income & expense & complete the question "Create a method in the class to export the detils in the from of CSV|<a href="Lab 07">Lab 07</a>|

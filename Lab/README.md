@@ -11,3 +11,7 @@ Email: kingsuk.rakshit@msds.christuniversity.in
 | 4     | lab_04   | As a data analyst specialist, gather insights from their customers' orders received for Farmers' Harvest in Freshville over time and display them to Emily as she uses your Application.|<a href="Lab 04">Lab 04</a>|
 | 5     | Lab 05   | Write a program for collecting a string from the user and counting the number of vowels.|<a href="Lab 05">Lab 05</a>|
 | 6  | Lab 06   | Write a program for collecting a string from the user and counting the number of vowels.|<a href="Lab 06">Lab 06</a>|
+| 7  | Lab 07   | How can I create a method in the "expenseTracker" class to export the details of at least 10 recorded income and expense transactions to a CSV file. |<a href="Lab 07">Lab 07</a>|
+| 8  | Lab 08   | Can you implement a Python program with a Stack class featuring push, pop, print, size, top, and is_empty functions? |<a href="Lab 08">Lab 08</a>|
+| 9  | Lab 09   | How can I design a Python PetStore class with methods for storing, searching, selling, and listing pet details, and then create a menu-driven program in a separate file for both Admin and User interactions with the store? |<a href="Lab 09">Lab 09</a>|
+| 10 | Lab 10   | Create a Python Class for managing student details and marks. Define the class and implement the methods of the student class in a menu-driven program for different types of users. |<a href="Lab 10">Lab 10</a>|
